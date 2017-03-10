@@ -1,0 +1,25 @@
+{
+  "name": "Books",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Book.model.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianmelo93/Books.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianmelo93/Books/issues"
+  },
+  "homepage": "https://github.com/adrianmelo93/Books#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.8.6"
+  }
+}
